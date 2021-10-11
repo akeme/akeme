@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is **Mariana Akeme**
+some facts about me: 
+- 🌱 I’m currently learning **Machine learning** and **Data Science**
+- 💬 Ask me about python, IA - I'll help if I can
+- 📫 How to reach me: here in github or mari.ogawa@gmail.com
+- ⚡ Fun fact: I love dogs and cats ^^
+ 
+
+
 <!--
 **akeme/akeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
