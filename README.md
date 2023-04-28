@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Mariana Akeme**
+My name is **Mariana Akeme Ogawa**
 some facts about me: 
 - 🔭 I’m currently working on BackEnd development - C#
 - 🌱 I’m currently learning **Machine learning** and **Data Science**
@@ -10,6 +10,8 @@ some facts about me:
 - ⚡ Fun fact: I love dogs and cats ^^
  
 Due to work my personal GitHub is kind of abandoned, but I intend to work on it soon....
+
+Most of repositories are codes that I made while studing or as a course project
 
 <!--
 **akeme/akeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
