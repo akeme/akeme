@@ -12,6 +12,7 @@ some facts about me:
 Due to work my personal GitHub is kind of abandoned, but I intend to work on it soon....
 
 Most of repositories are codes that I made while studing or as a course project
+So you will find a variety of programming languages and types of project (WebAPI, machine learning, computer vision....)
 
 <!--
 **akeme/akeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
